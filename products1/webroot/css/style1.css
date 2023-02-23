@@ -1,0 +1,24 @@
+.register{
+    position: relative;
+    right: 210px;
+}
+
+.add{
+    margin-top: 100px;
+    padding: 20px;
+    
+   
+}
+
+.addrow{
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.error{
+    color: red;
+}
+body{
+    background: url('./bg-img1.jpg');
+    background-size: cover;
+}
